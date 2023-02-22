@@ -1,0 +1,12 @@
+body {
+    /* 배경화면 창크기에 따라 꽉채우게 */
+    background-image: url("../public/dark-head.jpg");
+    /* 전체화면 */
+    background-size: cover;
+    /* 가운데 설정 */
+    background-position: center center;
+    /* 스크롤을 내려도 이미지 고정 */
+    background-attachment: fixed;
+    padding-left: 10%;
+    padding-right: 10%;
+}

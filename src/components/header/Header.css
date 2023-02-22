@@ -1,0 +1,13 @@
+.Header {
+    /* background-color: red; */
+    margin-top: 10px;
+    position: relative;
+    width: 500px;
+    height: 250px;
+}
+
+.header-img {
+    width: 500px;
+    height: 250px;
+    cursor: pointer;
+}
