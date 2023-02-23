@@ -1,0 +1,12 @@
+.welcome-btn {
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+    margin-bottom: 300px;
+    font-family: fantasy;
+}
+
+.welcome-btn button {
+    font-size: 24px;
+}
